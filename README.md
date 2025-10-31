@@ -1,33 +1,102 @@
-🎙️ Conexão Divina — Podcast Criado com I.A.s
-ℹ️ NOTE: Este projeto foi desenvolvido como parte do desafio de criação de podcast com I.A. da DIO, com o objetivo de unir criatividade, tecnologia e inteligência artificial em um conteúdo leve e inspirador
+
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="300"
+/>
+</p>
+
+<p align="center">
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
+</a>
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</a>
+</p>
+
+<p align="center">
+    preview do podcast
+</p>
+
+<div align="center">
+    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+</div>
+
+# Projeto Podcast Conexão Divina — Podcast Criado com I.A.s
 
 
-A Conexão Divina é um podcast que mistura fé, ciência, tecnologia e com muito humor - abordando temas como reflexões entre a mente criada e o Criador e como a era da informação forma e deforma nossa espiritualidade
+ > ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do desafio de criação de podcast com I.A. da DIO, com o objetivo de unir criatividade, tecnologia e inteligência artificial em um conteúdo leve e inspirador
+
+A Conexão Divina é um podcast que mistura fé, ciência, tecnologia e com muito humor - abordando temas como reflexões entre a mente criada e o Criador e como a era da informação forma e deforma nossa espiritualidade.
+Com duração média de 5 minutos, cada episódio busca informar, entreter e inspirar quem vive o mundo do códigoEste é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 
-Com duração média de 5 minutos, cada episódio busca informar, entreter e inspirar quem vive o mundo do código.
+## 💻 Tecnologias utilizadas no projeto
 
-💻 Tecnologias utilizadas no projeto
-ChatGPT → Criação do roteiro e prompts de apoio
-MidJourney → Geração da capa do podcast
-ElevenLabs → Voz e efeitos sonoros
-CapCut → Edição final de áudio e mixagem
-✨ Etapas de criação
-🧠 Roteiro: Gerado com o ChatGPT, definindo o tema, estrutura e tom do episódio.
-🎙️ Narração: Voz criada na ElevenLabs, com entonação natural e leve.
-🎨 Capa: Gerada via Midjourney com estilo cyberpunk, tecnológico e moderno.
-🎧 Edição: Tratamento do áudio e sons de fundo no CapCut.
-🧩 Materiais de apoio
-🗒️ Template do Notion
-🎛️ Editor de Áudio (CapCut)
-🚀 Como reproduzir
-Use os prompts no Notion acima e siga o passo a passo:
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
 
-🧾 Gere o roteiro no ChatGPT
-🎙️ Converta o texto em voz na ElevenLabs
-🎨 Crie a arte de capa no Midjourney
-🎧 Edite e finalize o áudio no CapCut
-👩‍💻 Criadora
-Maressa Pinho
+## ✨ Como foi feito ?
+
+- 🧠Roteiro gerado via chatgpt
+- 🎙️Narração gerado pela elevenLabs
+- 🎨Midjourney Para gerar capas
+- 🎧Capcut para tratar aúdio e adicionar sons de fundo
+
+## 📚 Materiais
+
+- [Link da live no Youtube](https://www.youtube.com)
+- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+
+
+## 🛠️ Instruções de execução
+
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
+- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `midjourney`
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+    />
+    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/felipeAguiarCode">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/felipe-exe">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/felipeaguiar.exe/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Maressa Pinho](https://github.com/felipeAguiarCode)
 
 
