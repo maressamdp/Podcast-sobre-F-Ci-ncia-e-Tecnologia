@@ -1,7 +1,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/maressamdp/Podcast-sobre-F-Ci-ncia-e-Tecnologia/blob/main/conex%C3%A3o.jpg"
     width="300"
 />
 </p>
