@@ -33,7 +33,7 @@
  > ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do desafio de criação de podcast com I.A. da DIO, com o objetivo de unir criatividade, tecnologia e inteligência artificial em um conteúdo leve e inspirador
 
 A Conexão Divina é um podcast que mistura fé, ciência, tecnologia e com muito humor - abordando temas como reflexões entre a mente criada e o Criador e como a era da informação forma e deforma nossa espiritualidade.
-Com duração média de 5 minutos, cada episódio busca informar, entreter e inspirar quem vive o mundo do códigoEste é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+Com duração média de 5 minutos, cada episódio busca informar, entreter e inspirar quem vive o mundo do código.
 
 
 ## 💻 Tecnologias utilizadas no projeto
